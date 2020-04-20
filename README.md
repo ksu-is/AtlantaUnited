@@ -6,5 +6,5 @@ _This will be an app that will help us find the recent scores and games of Atlan
 
 
 > * Find a repository that allows me to see the games
-> * Find a website that i can scrub to get the scores
+> * Find a website that i use scores to create statistical analysis
 > * Review some videos on how to change some of the code to fit my schedule
