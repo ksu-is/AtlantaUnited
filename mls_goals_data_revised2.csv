@@ -1,0 +1,410 @@
+mls_goals_data_revised1
+Season,Unnamed: 0,Date,home,visitor,FT,hgoal,vgoal,hconf,vconf,totgoal,round,leg,hgoalaet,vgoalaet,hpen,vpen,hwins
+2019,0,2019-03-02,Philadelphia,Toronto FC,1-3,1,3,east,east,4,regular,,,,,,a
+2019,1,2019-03-02,Orlando City,NYCFC,2-2,2,2,east,east,4,regular,,,,,,t
+2019,2,2019-03-02,FC Dallas,New England,1-1,1,1,west,east,2,regular,,,,,,t
+2019,3,2019-03-02,Columbus,NY Red Bulls,1-1,1,1,east,east,2,regular,,,,,,t
+2019,4,2019-03-02,Vancouver,Minnesota,2-3,2,3,west,west,5,regular,,,,,,a
+2019,5,2019-03-02,Colorado,Portland,3-3,3,3,west,west,6,regular,,,,,,t
+2019,6,2019-03-02,Houston,Real Salt Lake,1-1,1,1,west,west,2,regular,,,,,,t
+2019,7,2019-03-02,LA Galaxy,Chicago,2-1,2,1,west,east,3,regular,,,,,,h
+2019,8,2019-03-02,Seattle,FC Cincinnati,4-1,4,1,west,east,5,regular,,,,,,h
+2019,9,2019-03-02,San Jose,Montreal,1-2,1,2,west,east,3,regular,,,,,,a
+2019,10,2019-03-03,D.C. United,Atlanta,2-0,2,0,east,east,2,regular,,,,,,h
+2019,11,2019-03-03,Los Angeles FC,Sporting KC,2-1,2,1,west,west,3,regular,,,,,,h
+2019,12,2019-03-09,Chicago,Orlando City,1-1,1,1,east,east,2,regular,,,,,,t
+2019,13,2019-03-09,New England,Columbus,0-2,0,2,east,east,2,regular,,,,,,a
+2019,14,2019-03-09,FC Dallas,LA Galaxy,2-0,2,0,west,west,2,regular,,,,,,h
+2019,15,2019-03-09,Houston,Montreal,2-1,2,1,west,east,3,regular,,,,,,h
+2019,16,2019-03-09,Real Salt Lake,Vancouver,1-0,1,0,west,west,1,regular,,,,,,h
+2019,17,2019-03-09,San Jose,Minnesota,0-3,0,3,west,west,3,regular,,,,,,a
+2019,18,2019-03-09,Seattle,Colorado,2-0,2,0,west,west,2,regular,,,,,,h
+2019,19,2019-03-10,Sporting KC,Philadelphia,2-0,2,0,west,east,2,regular,,,,,,h
+2019,20,2019-03-10,NYCFC,D.C. United,0-0,0,0,east,east,0,regular,,,,,,t
+2019,21,2019-03-10,Atlanta,FC Cincinnati,1-1,1,1,east,east,2,regular,,,,,,t
+2019,22,2019-03-10,Los Angeles FC,Portland,4-1,4,1,west,west,5,regular,,,,,,h
+2019,23,2019-03-16,Chicago,Seattle,2-4,2,4,east,west,6,regular,,,,,,a
+2019,24,2019-03-16,Columbus,FC Dallas,1-0,1,0,east,west,1,regular,,,,,,h
+2019,25,2019-03-16,Houston,Vancouver,3-2,3,2,west,west,5,regular,,,,,,h
+2019,26,2019-03-16,NY Red Bulls,San Jose,4-1,4,1,east,west,5,regular,,,,,,h
+2019,27,2019-03-16,Orlando City,Montreal,1-3,1,3,east,east,4,regular,,,,,,a
+2019,28,2019-03-16,D.C. United,Real Salt Lake,5-0,5,0,east,west,5,regular,,,,,,h
+2019,29,2019-03-16,LA Galaxy,Minnesota,3-2,3,2,west,west,5,regular,,,,,,h
+2019,30,2019-03-17,NYCFC,Los Angeles FC,2-2,2,2,east,west,4,regular,,,,,,t
+2019,31,2019-03-17,FC Cincinnati,Portland,3-0,3,0,east,west,3,regular,,,,,,h
+2019,32,2019-03-17,Atlanta,Philadelphia,1-1,1,1,east,east,2,regular,,,,,,t
+2019,33,2019-03-17,Toronto FC,New England,3-2,3,2,east,east,5,regular,,,,,,h
+2019,34,2019-03-17,Colorado,Sporting KC,1-1,1,1,west,west,2,regular,,,,,,t
+2019,35,2019-03-23,FC Dallas,Colorado,2-1,2,1,west,west,3,regular,,,,,,h
+2019,36,2019-03-23,NY Red Bulls,Orlando City,0-1,0,1,east,east,1,regular,,,,,,a
+2019,37,2019-03-23,Philadelphia,Columbus,3-0,3,0,east,east,3,regular,,,,,,h
+2019,38,2019-03-23,Los Angeles FC,Real Salt Lake,2-1,2,1,west,west,3,regular,,,,,,h
+2019,39,2019-03-24,New England,FC Cincinnati,0-2,0,2,east,east,2,regular,,,,,,a
+2019,40,2019-03-27,Toronto FC,NYCFC,4-0,4,0,east,east,4,regular,,,,,,h
+2019,41,2019-03-30,Chicago,NY Red Bulls,1-0,1,0,east,east,1,regular,,,,,,h
+2019,42,2019-03-30,New England,Minnesota,2-1,2,1,east,west,3,regular,,,,,,h
+2019,43,2019-03-30,Sporting KC,Montreal,7-1,7,1,west,east,8,regular,,,,,,h
+2019,44,2019-03-30,San Jose,Los Angeles FC,0-5,0,5,west,west,5,regular,,,,,,a
+2019,45,2019-03-30,FC Cincinnati,Philadelphia,0-2,0,2,east,east,2,regular,,,,,,a
+2019,46,2019-03-30,Columbus,Atlanta,2-0,2,0,east,east,2,regular,,,,,,h
+2019,47,2019-03-30,Real Salt Lake,FC Dallas,2-4,2,4,west,west,6,regular,,,,,,a
+2019,48,2019-03-30,Colorado,Houston,1-4,1,4,west,west,5,regular,,,,,,a
+2019,49,2019-03-30,Vancouver,Seattle,0-0,0,0,west,west,0,regular,,,,,,t
+2019,50,2019-03-31,Orlando City,D.C. United,1-2,1,2,east,east,3,regular,,,,,,a
+2019,51,2019-03-31,LA Galaxy,Portland,2-1,2,1,west,west,3,regular,,,,,,h
+2019,52,2019-04-05,Vancouver,LA Galaxy,0-2,0,2,west,west,2,regular,,,,,,a
+2019,53,2019-04-06,NYCFC,Montreal,0-0,0,0,east,east,0,regular,,,,,,t
+2019,54,2019-04-06,D.C. United,Los Angeles FC,0-4,0,4,east,west,4,regular,,,,,,t
+2019,55,2019-04-06,Toronto FC,Chicago,2-2,2,2,east,east,4,regular,,,,,,a
+2019,56,2019-04-06,NY Red Bulls,Minnesota,1-2,1,2,east,west,3,regular,,,,,,h
+2019,57,2019-04-06,Orlando City,Colorado,4-3,4,3,east,west,7,regular,,,,,,h
+2019,58,2019-04-06,Columbus,New England,1-0,1,0,east,east,1,regular,,,,,,h
+2019,59,2019-04-06,Philadelphia,FC Dallas,2-1,2,1,east,west,3,regular,,,,,,h
+2019,60,2019-04-06,San Jose,Portland,3-0,3,0,west,west,3,regular,,,,,,h
+2019,61,2019-04-06,Seattle,Real Salt Lake,1-0,1,0,west,west,1,regular,,,,,,t
+2019,62,2019-04-07,FC Cincinnati,Sporting KC,1-1,1,1,east,west,2,regular,,,,,,t
+2019,63,2019-04-09,D.C. United,Montreal,0-0,0,0,east,east,0,regular,,,,,,t
+2019,64,2019-04-12,Chicago,Vancouver,1-1,1,1,east,west,2,regular,,,,,,t
+2019,65,2019-04-13,Montreal,Columbus,1-0,1,0,east,east,1,regular,,,,,,h
+2019,66,2019-04-13,Houston,San Jose,2-1,2,1,west,west,3,regular,,,,,,h
+2019,67,2019-04-13,Seattle,Toronto FC,3-2,3,2,west,east,5,regular,,,,,,h
+2019,68,2019-04-13,Minnesota,NYCFC,3-3,3,3,west,east,6,regular,,,,,,t
+2019,69,2019-04-13,New England,Atlanta,0-2,0,2,east,east,2,regular,,,,,,a
+2019,70,2019-04-13,FC Dallas,Portland,2-1,2,1,west,west,3,regular,,,,,,h
+2019,71,2019-04-13,Colorado,D.C. United,2-3,2,3,west,east,5,regular,,,,,,a
+2019,72,2019-04-13,Real Salt Lake,Orlando City,2-1,2,1,west,east,3,regular,,,,,,h
+2019,73,2019-04-13,LA Galaxy,Philadelphia,2-0,2,0,west,east,2,regular,,,,,,h
+2019,74,2019-04-13,Los Angeles FC,FC Cincinnati,2-0,2,0,west,east,2,regular,,,,,,h
+2019,75,2019-04-14,Sporting KC,NY Red Bulls,2-2,2,2,west,east,4,regular,,,,,,t
+2019,76,2019-04-17,Vancouver,Los Angeles FC,1-0,1,0,west,west,1,regular,,,,,,h
+2019,77,2019-04-19,FC Cincinnati,Real Salt Lake,0-3,0,3,east,west,3,regular,,,,,,a
+2019,78,2019-04-19,Toronto FC,Minnesota,4-3,4,3,east,west,7,regular,,,,,,h
+2019,79,2019-04-19,LA Galaxy,Houston,2-1,2,1,west,west,3,regular,,,,,,h
+2019,80,2019-04-20,Chicago,Colorado,4-1,4,1,east,west,5,regular,,,,,,h
+2019,81,2019-04-20,Philadelphia,Montreal,3-0,3,0,east,east,3,regular,,,,,,h
+2019,82,2019-04-20,Orlando City,Vancouver,1-0,1,0,east,west,1,regular,,,,,,h
+2019,83,2019-04-20,Atlanta,FC Dallas,1-2,1,2,east,west,3,regular,,,,,,a
+2019,84,2019-04-20,New England,NY Red Bulls,1-0,1,0,east,east,1,regular,,,,,,h
+2019,85,2019-04-20,Columbus,Portland,1-3,1,3,east,west,4,regular,,,,,,a
+2019,86,2019-04-20,San Jose,Sporting KC,4-1,4,1,west,west,5,regular,,,,,,h
+2019,87,2019-04-21,D.C. United,NYCFC,0-2,0,2,east,east,2,regular,,,,,,a
+2019,88,2019-04-21,Los Angeles FC,Seattle,4-1,4,1,west,west,5,regular,,,,,,h
+2019,89,2019-04-24,NYCFC,Chicago,1-0,1,0,east,east,1,regular,,,,,,h
+2019,90,2019-04-24,New England,Montreal,0-3,0,3,east,east,3,regular,,,,,,a
+2019,91,2019-04-24,Columbus,D.C. United,0-1,0,1,east,east,1,regular,,,,,,a
+2019,92,2019-04-24,Minnesota,LA Galaxy,0-0,0,0,west,west,0,regular,,,,,,t
+2019,93,2019-04-24,Seattle,San Jose,2-2,2,2,west,west,4,regular,,,,,,t
+2019,94,2019-04-27,NYCFC,Orlando City,1-1,1,1,east,east,2,regular,,,,,,t
+2019,95,2019-04-27,Toronto FC,Portland,1-2,1,2,east,west,3,regular,,,,,,a
+2019,96,2019-04-27,FC Dallas,San Jose,0-0,0,0,west,west,0,regular,,,,,,t
+2019,97,2019-04-27,Vancouver,Philadelphia,1-1,1,1,west,east,2,regular,,,,,,t
+2019,98,2019-04-27,Atlanta,Colorado,1-0,1,0,east,west,1,regular,,,,,,h
+2019,99,2019-04-27,NY Red Bulls,FC Cincinnati,1-0,1,0,east,east,1,regular,,,,,,h
+2019,100,2019-04-27,Sporting KC,New England,4-4,4,4,west,east,8,regular,,,,,,t
+2019,101,2019-04-27,Houston,Columbus,2-0,2,0,west,east,2,regular,,,,,,h
+2019,102,2019-04-28,Montreal,Chicago,1-0,1,0,east,east,1,regular,,,,,,h
+2019,103,2019-04-28,Minnesota,D.C. United,1-0,1,0,west,east,1,regular,,,,,,h
+2019,104,2019-04-28,Seattle,Los Angeles FC,1-1,1,1,west,west,2,regular,,,,,,t
+2019,105,2019-04-28,LA Galaxy,Real Salt Lake,2-1,2,1,west,west,3,regular,,,,,,h
+2019,106,2019-05-01,Philadelphia,FC Cincinnati,2-0,2,0,east,east,2,regular,,,,,,h
+2019,107,2019-05-03,Colorado,Vancouver,2-3,2,3,west,west,5,regular,,,,,,a
+2019,108,2019-05-04,NY Red Bulls,LA Galaxy,3-2,3,2,east,west,5,regular,,,,,,h
+2019,109,2019-05-04,Houston,FC Dallas,2-1,2,1,west,west,3,regular,,,,,,h
+2019,110,2019-05-04,Orlando City,Toronto FC,0-2,0,2,east,east,2,regular,,,,,,a
+2019,111,2019-05-04,Montreal,NYCFC,0-2,0,2,east,east,2,regular,,,,,,a
+2019,112,2019-05-04,Philadelphia,New England,6-1,6,1,east,east,7,regular,,,,,,h
+2019,113,2019-05-04,Minnesota,Seattle,1-1,1,1,west,west,2,regular,,,,,,t
+2019,114,2019-05-04,D.C. United,Columbus,3-1,3,1,east,east,4,regular,,,,,,h
+2019,115,2019-05-04,Real Salt Lake,Portland,0-0,1,2,west,west,3,regular,,,,,,a
+2019,116,2019-05-04,San Jose,FC Cincinnati,1-0,1,0,west,east,1,regular,,,,,,h
+2019,117,2019-05-04,Los Angeles FC,Chicago,0-0,0,0,west,east,0,regular,,,,,,t
+2019,118,2019-05-05,Sporting KC,Atlanta,0-3,0,3,west,east,3,regular,,,,,,a
+2019,119,2019-05-08,Atlanta,Toronto FC,2-0,2,0,east,east,2,regular,,,,,,h
+2019,120,2019-05-08,Columbus,LA Galaxy,3-1,3,1,east,west,4,regular,,,,,,h
+2019,121,2019-05-08,Chicago,New England,5-0,5,0,east,east,5,regular,,,,,,h
+2019,122,2019-05-08,NY Red Bulls,Montreal,1-2,1,2,east,east,3,regular,,,,,,a
+2019,123,2019-05-10,Vancouver,Portland,1-0,1,0,west,west,1,regular,,,,,,h
+2019,124,2019-05-11,FC Cincinnati,Montreal,2-1,2,1,east,east,3,regular,,,,,,h
+2019,125,2019-05-11,FC Dallas,NY Red Bulls,1-3,1,3,west,east,4,regular,,,,,,a
+2019,126,2019-05-11,Toronto FC,Philadelphia,1-2,1,2,east,east,3,regular,,,,,,a
+2019,127,2019-05-11,LA Galaxy,NYCFC,0-2,0,2,west,east,2,regular,,,,,,a
+2019,128,2019-05-11,Columbus,Los Angeles FC,0-3,0,3,east,west,3,regular,,,,,,a
+2019,129,2019-05-11,New England,San Jose,3-1,3,1,east,west,4,regular,,,,,,h
+2019,130,2019-05-11,Chicago,Minnesota,2-0,2,0,east,west,2,regular,,,,,,h
+2019,131,2019-05-11,Colorado,Real Salt Lake,2-3,2,3,west,west,5,regular,,,,,,a
+2019,132,2019-05-11,Seattle,Houston,1-0,1,0,west,west,1,regular,,,,,,h
+2019,133,2019-05-12,Atlanta,Orlando City,1-0,1,0,east,east,1,regular,,,,,,h
+2019,134,2019-05-12,D.C. United,Sporting KC,1-0,1,0,east,west,1,regular,,,,,,h
+2019,135,2019-05-15,Toronto FC,D.C. United,0-0,0,0,east,east,0,regular,,,,,,t
+2019,136,2019-05-15,Houston,Portland,1-1,1,1,west,west,2,regular,,,,,,t
+2019,137,2019-05-15,Vancouver,Atlanta,0-1,0,1,west,east,1,regular,,,,,,a
+2019,138,2019-05-15,Seattle,Orlando City,2-1,2,1,west,east,3,regular,,,,,,h
+2019,139,2019-05-16,Los Angeles FC,FC Dallas,2-0,2,0,west,west,2,regular,,,,,,h
+2019,140,2019-05-18,Montreal,New England,0-0,0,0,east,east,0,regular,,,,,,t
+2019,141,2019-05-18,Real Salt Lake,Toronto FC,3-0,3,0,west,east,3,regular,,,,,,h
+2019,142,2019-05-18,San Jose,Chicago,4-1,4,1,west,east,5,regular,,,,,,h
+2019,143,2019-05-18,Philadelphia,Seattle,0-0,0,0,east,west,0,regular,,,,,,t
+2019,144,2019-05-18,Minnesota,Columbus,1-0,1,0,west,east,1,regular,,,,,,h
+2019,145,2019-05-18,Sporting KC,Vancouver,1-1,1,1,west,west,2,regular,,,,,,t
+2019,146,2019-05-18,Houston,D.C. United,2-1,2,1,west,east,3,regular,,,,,,h
+2019,147,2019-05-19,Orlando City,FC Cincinnati,5-1,5,1,east,east,6,regular,,,,,,h
+2019,148,2019-05-19,NY Red Bulls,Atlanta,1-0,1,0,east,east,1,regular,,,,,,h
+2019,149,2019-05-19,FC Dallas,Los Angeles FC,1-1,1,1,west,west,2,regular,,,,,,t
+2019,150,2019-05-19,LA Galaxy,Colorado,0-1,0,1,west,west,1,regular,,,,,,a
+2019,151,2019-05-22,NY Red Bulls,Vancouver,2-2,2,2,east,west,4,regular,,,,,,t
+2019,152,2019-05-24,Orlando City,LA Galaxy,0-1,0,1,east,west,1,regular,,,,,,a
+2019,153,2019-05-24,Real Salt Lake,Atlanta,2-1,2,1,west,east,3,regular,,,,,,h
+2019,154,2019-05-24,Los Angeles FC,Montreal,4-2,4,2,west,east,6,regular,,,,,,h
+2019,155,2019-05-25,Chicago,NYCFC,1-1,1,1,east,east,2,regular,,,,,,t
+2019,156,2019-05-25,Vancouver,FC Dallas,2-1,2,1,west,west,3,regular,,,,,,h
+2019,157,2019-05-25,New England,D.C. United,1-1,1,1,east,east,2,regular,,,,,,t
+2019,158,2019-05-25,FC Cincinnati,NY Red Bulls,0-2,0,2,east,east,2,regular,,,,,,a
+2019,159,2019-05-25,Philadelphia,Portland,1-3,1,3,east,west,4,regular,,,,,,a
+2019,160,2019-05-25,Minnesota,Houston,1-0,1,0,west,west,1,regular,,,,,,h
+2019,161,2019-05-25,Colorado,Columbus,3-2,3,2,west,east,5,regular,,,,,,h
+2019,162,2019-05-26,Sporting KC,Seattle,3-2,3,2,west,west,5,regular,,,,,,h
+2019,163,2019-05-26,Toronto FC,San Jose,1-2,1,2,east,west,3,regular,,,,,,a
+2019,164,2019-05-29,Atlanta,Minnesota,3-0,3,0,east,west,3,regular,,,,,,h
+2019,165,2019-05-29,Montreal,Real Salt Lake,2-1,2,1,east,west,3,regular,,,,,,h
+2019,166,2019-05-29,D.C. United,Chicago,3-3,3,3,east,east,6,regular,,,,,,t
+2019,167,2019-05-29,Sporting KC,LA Galaxy,0-2,0,2,west,west,2,regular,,,,,,a
+2019,168,2019-05-29,Philadelphia,Colorado,1-1,1,1,east,west,2,regular,,,,,,t
+2019,169,2019-05-31,Vancouver,Toronto FC,1-1,1,1,west,east,2,regular,,,,,,t
+2019,170,2019-06-01,Montreal,Orlando City,0-3,0,3,east,east,3,regular,,,,,,a
+2019,171,2019-06-01,Atlanta,Chicago,2-0,2,0,east,east,2,regular,,,,,,h
+2019,172,2019-06-01,NY Red Bulls,Real Salt Lake,4-0,4,0,east,west,4,regular,,,,,,h
+2019,173,2019-06-01,Columbus,NYCFC,2-2,2,2,east,east,4,regular,,,,,,t
+2019,174,2019-06-01,FC Dallas,Seattle,2-1,2,1,west,west,3,regular,,,,,,h
+2019,175,2019-06-01,D.C. United,San Jose,1-1,1,1,east,west,2,regular,,,,,,t
+2019,176,2019-06-01,Colorado,FC Cincinnati,3-1,3,1,west,east,4,regular,,,,,,h
+2019,177,2019-06-01,Houston,Sporting KC,1-1,1,1,west,west,2,regular,,,,,,t
+2019,178,2019-06-01,Portland,Los Angeles FC,2-3,2,3,west,west,5,regular,,,,,,a
+2019,179,2019-06-02,Minnesota,Philadelphia,2-3,2,3,west,east,5,regular,,,,,,a
+2019,180,2019-06-02,LA Galaxy,New England,1-2,1,2,west,east,3,regular,,,,,,a
+2019,181,2019-06-05,Montreal,Seattle,2-1,2,1,east,west,3,regular,,,,,,h
+2019,182,2019-06-06,NYCFC,FC Cincinnati,5-2,5,2,east,east,7,regular,,,,,,h
+2019,183,2019-06-07,Toronto FC,Sporting KC,2-2,2,2,east,west,4,regular,,,,,,t
+2019,184,2019-06-08,San Jose,FC Dallas,2-2,2,2,west,west,4,regular,,,,,,t
+2019,185,2019-06-08,Philadelphia,NY Red Bulls,3-2,3,2,east,east,5,regular,,,,,,h
+2019,186,2019-06-08,Colorado,Minnesota,1-0,1,0,west,west,1,regular,,,,,,h
+2019,187,2019-06-22,FC Cincinnati,LA Galaxy,0-2,0,2,east,west,2,regular,,,,,,a
+2019,188,2019-06-22,FC Dallas,Toronto FC,3-0,3,0,west,east,3,regular,,,,,,h
+2019,189,2019-06-22,Chicago,Real Salt Lake,1-1,1,1,east,west,2,regular,,,,,,t
+2019,190,2019-06-22,Vancouver,Colorado,2-2,2,2,west,west,4,regular,,,,,,t
+2019,191,2019-06-22,Portland,Houston,4-0,4,0,west,west,4,regular,,,,,,h
+2019,192,2019-06-23,Columbus,Sporting KC,0-1,0,1,east,west,1,regular,,,,,,a
+2019,193,2019-06-26,New England,Philadelphia,1-1,1,1,east,east,2,regular,,,,,,t
+2019,194,2019-06-26,Montreal,Portland,2-1,2,1,east,west,3,regular,,,,,,h
+2019,195,2019-06-26,Toronto FC,Atlanta,3-2,3,2,east,east,5,regular,,,,,,h
+2019,196,2019-06-26,D.C. United,Orlando City,1-0,1,0,east,east,1,regular,,,,,,h
+2019,197,2019-06-26,FC Dallas,Vancouver,2-2,2,2,west,west,4,regular,,,,,,t
+2019,198,2019-06-26,San Jose,Houston,2-0,2,0,west,west,2,regular,,,,,,h
+2019,199,2019-06-28,NY Red Bulls,Chicago,3-1,3,1,east,east,4,regular,,,,,,h
+2019,200,2019-06-28,Colorado,Los Angeles FC,1-0,1,0,west,west,1,regular,,,,,,h
+2019,201,2019-06-29,Minnesota,FC Cincinnati,7-1,7,1,west,east,8,regular,,,,,,h
+2019,202,2019-06-29,Atlanta,Montreal,2-1,2,1,east,east,3,regular,,,,,,h
+2019,203,2019-06-29,NYCFC,Philadelphia,4-2,4,2,east,east,6,regular,,,,,,h
+2019,204,2019-06-29,New England,Houston,2-1,2,1,east,west,3,regular,,,,,,h
+2019,205,2019-06-29,Columbus,Orlando City,0-2,0,2,east,east,2,regular,,,,,,a
+2019,206,2019-06-29,D.C. United,Toronto FC,1-1,1,1,east,east,2,regular,,,,,,t
+2019,207,2019-06-29,Seattle,Vancouver,1-0,1,0,west,west,1,regular,,,,,,h
+2019,208,2019-06-29,San Jose,LA Galaxy,3-0,3,0,west,west,3,regular,,,,,,h
+2019,209,2019-06-29,Real Salt Lake,Sporting KC,2-0,2,0,west,west,2,regular,,,,,,h
+2019,210,2019-06-30,Portland,FC Dallas,1-0,1,0,west,west,1,regular,,,,,,h
+2019,211,2019-07-03,NYCFC,Seattle,3-0,3,0,east,west,3,regular,,,,,,h
+2019,212,2019-07-03,Orlando City,Philadelphia,1-3,1,3,east,east,4,regular,,,,,,a
+2019,213,2019-07-03,Chicago,Atlanta,5-1,5,1,east,east,6,regular,,,,,,h
+2019,214,2019-07-03,Minnesota,San Jose,3-1,3,1,west,west,4,regular,,,,,,h
+2019,215,2019-07-03,Sporting KC,Los Angeles FC,1-5,1,5,west,west,6,regular,,,,,,a
+2019,216,2019-07-03,Houston,NY Red Bulls,4-0,4,0,west,east,4,regular,,,,,,h
+2019,217,2019-07-03,Real Salt Lake,Columbus,1-0,1,0,west,east,1,regular,,,,,,h
+2019,218,2019-07-04,Colorado,New England,1-2,1,2,west,east,3,regular,,,,,,a
+2019,219,2019-07-04,FC Dallas,D.C. United,2-0,2,0,west,east,2,regular,,,,,,h
+2019,220,2019-07-04,LA Galaxy,Toronto FC,2-0,2,0,west,east,2,regular,,,,,,h
+2019,221,2019-07-06,Montreal,Minnesota,2-3,2,3,east,west,5,regular,,,,,,a
+2019,222,2019-07-06,FC Cincinnati,Houston,3-2,3,2,east,west,5,regular,,,,,,h
+2019,223,2019-07-06,Columbus,Seattle,1-2,1,2,east,west,3,regular,,,,,,a
+2019,224,2019-07-06,Sporting KC,Chicago,1-0,1,0,west,east,1,regular,,,,,,h
+2019,225,2019-07-06,Los Angeles FC,Vancouver,6-1,6,1,west,west,7,regular,,,,,,h
+2019,226,2019-07-06,San Jose,Real Salt Lake,1-0,1,0,west,west,1,regular,,,,,,h
+2019,227,2019-07-07,Atlanta,NY Red Bulls,3-3,3,3,east,east,6,regular,,,,,,t
+2019,228,2019-07-07,Philadelphia,Orlando City,2-2,2,2,east,east,4,regular,,,,,,t
+2019,229,2019-07-07,NYCFC,Portland,0-1,0,1,east,west,1,regular,,,,,,a
+2019,230,2019-07-12,D.C. United,New England,2-2,2,2,east,east,4,regular,,,,,,t
+2019,231,2019-07-12,Houston,Los Angeles FC,1-3,1,3,west,west,4,regular,,,,,,a
+2019,232,2019-07-12,LA Galaxy,San Jose,1-3,1,3,west,west,4,regular,,,,,,a
+2019,233,2019-07-13,Orlando City,Columbus,1-0,1,0,east,east,1,regular,,,,,,h
+2019,234,2019-07-13,Montreal,Toronto FC,0-2,0,2,east,east,2,regular,,,,,,a
+2019,235,2019-07-13,Chicago,FC Cincinnati,1-2,1,2,east,east,3,regular,,,,,,a
+2019,236,2019-07-13,Minnesota,FC Dallas,1-0,1,0,west,west,1,regular,,,,,,h
+2019,237,2019-07-13,Vancouver,Sporting KC,0-3,0,3,west,west,3,regular,,,,,,a
+2019,238,2019-07-13,Real Salt Lake,Philadelphia,4-0,4,0,west,east,4,regular,,,,,,h
+2019,239,2019-07-13,Portland,Colorado,2-2,2,2,west,west,4,regular,,,,,,t
+2019,240,2019-07-14,Seattle,Atlanta,2-1,2,1,west,east,3,regular,,,,,,h
+2019,241,2019-07-14,NY Red Bulls,NYCFC,2-1,2,1,east,east,3,regular,,,,,,h
+2019,242,2019-07-17,New England,Vancouver,4-0,4,0,east,west,4,regular,,,,,,h
+2019,243,2019-07-17,Atlanta,Houston,5-0,5,0,east,west,5,regular,,,,,,h
+2019,244,2019-07-17,Chicago,Columbus,2-2,2,2,east,east,4,regular,,,,,,t
+2019,245,2019-07-17,Toronto FC,NY Red Bulls,3-1,3,1,east,east,4,regular,,,,,,h
+2019,246,2019-07-18,FC Cincinnati,D.C. United,1-4,1,4,east,east,5,regular,,,,,,a
+2019,247,2019-07-18,Portland,Orlando City,1-1,1,1,west,east,2,regular,,,,,,t
+2019,248,2019-07-19,LA Galaxy,Los Angeles FC,3-2,3,2,west,west,5,regular,,,,,,h
+2019,249,2019-07-20,Columbus,Montreal,2-1,2,1,east,east,3,regular,,,,,,h
+2019,250,2019-07-20,Toronto FC,Houston,1-3,1,3,east,west,4,regular,,,,,,a
+2019,251,2019-07-20,Philadelphia,Chicago,2-0,2,0,east,east,2,regular,,,,,,h
+2019,252,2019-07-20,Sporting KC,FC Dallas,0-2,0,2,west,west,2,regular,,,,,,a
+2019,253,2019-07-20,Colorado,NYCFC,1-2,1,2,west,east,3,regular,,,,,,a
+2019,254,2019-07-20,Vancouver,San Jose,1-3,1,3,west,west,4,regular,,,,,,a
+2019,255,2019-07-20,Real Salt Lake,Minnesota,1-1,1,1,west,west,2,regular,,,,,,t
+2019,256,2019-07-21,Atlanta,D.C. United,2-0,2,0,east,east,2,regular,,,,,,h
+2019,257,2019-07-21,FC Cincinnati,New England,0-2,0,2,east,east,2,regular,,,,,,a
+2019,258,2019-07-21,Orlando City,NY Red Bulls,0-1,0,1,east,east,1,regular,,,,,,a
+2019,259,2019-07-21,Seattle,Portland,1-2,1,2,west,west,3,regular,,,,,,a
+2019,260,2019-07-26,NYCFC,Sporting KC,3-1,3,1,east,west,4,regular,,,,,,h
+2019,261,2019-07-26,Los Angeles FC,Atlanta,4-3,4,3,west,east,7,regular,,,,,,h
+2019,262,2019-07-27,New England,Orlando City,4-1,4,1,east,east,5,regular,,,,,,h
+2019,263,2019-07-27,NY Red Bulls,Columbus,2-3,2,3,east,east,5,regular,,,,,,a
+2019,264,2019-07-27,FC Dallas,Real Salt Lake,0-0,0,0,west,west,0,regular,,,,,,t
+2019,265,2019-07-27,Chicago,D.C. United,0-0,0,0,east,east,0,regular,,,,,,t
+2019,266,2019-07-27,Minnesota,Vancouver,0-0,0,0,west,west,0,regular,,,,,,t
+2019,267,2019-07-27,Houston,Seattle,0-1,0,1,west,west,1,regular,,,,,,a
+2019,268,2019-07-27,Montreal,Philadelphia,4-0,4,0,east,east,4,regular,,,,,,h
+2019,269,2019-07-27,Toronto FC,FC Cincinnati,2-1,2,1,east,east,3,regular,,,,,,h
+2019,270,2019-07-27,San Jose,Colorado,3-1,3,1,west,west,4,regular,,,,,,h
+2019,271,2019-07-27,Portland,LA Galaxy,4-0,4,0,west,west,4,regular,,,,,,h
+2019,272,2019-08-03,Atlanta,LA Galaxy,3-0,3,0,east,west,3,regular,,,,,,h
+2019,273,2019-08-03,NY Red Bulls,Toronto FC,2-0,2,0,east,east,2,regular,,,,,,h
+2019,274,2019-08-03,New England,Los Angeles FC,0-2,0,2,east,west,2,regular,,,,,,a
+2019,275,2019-08-03,Orlando City,FC Dallas,2-0,2,0,east,west,2,regular,,,,,,h
+2019,276,2019-08-03,FC Cincinnati,Vancouver,1-2,1,2,east,west,3,regular,,,,,,a
+2019,277,2019-08-03,Colorado,Montreal,6-3,6,3,west,east,9,regular,,,,,,h
+2019,278,2019-08-03,Houston,Chicago,0-1,0,1,west,east,1,regular,,,,,,a
+2019,279,2019-08-03,San Jose,Columbus,1-1,1,1,west,east,2,regular,,,,,,t
+2019,280,2019-08-03,Real Salt Lake,NYCFC,3-1,3,1,west,east,4,regular,,,,,,h
+2019,281,2019-08-04,Minnesota,Portland,1-0,1,0,west,west,1,regular,,,,,,h
+2019,282,2019-08-04,D.C. United,Philadelphia,1-5,1,5,east,east,6,regular,,,,,,a
+2019,283,2019-08-04,Seattle,Sporting KC,2-3,2,3,west,west,5,regular,,,,,,a
+2019,284,2019-08-08,NYCFC,Houston,3-2,3,2,east,west,5,regular,,,,,,h
+2019,285,2019-08-10,Seattle,New England,3-3,3,3,west,east,6,regular,,,,,,t
+2019,286,2019-08-10,Toronto FC,Orlando City,1-1,1,1,east,east,2,regular,,,,,,t
+2019,287,2019-08-10,Columbus,FC Cincinnati,2-2,2,2,east,east,4,regular,,,,,,t
+2019,288,2019-08-10,FC Dallas,Minnesota,5-3,5,3,west,west,8,regular,,,,,,h
+2019,289,2019-08-10,Sporting KC,Real Salt Lake,1-2,1,2,west,west,3,regular,,,,,,a
+2019,290,2019-08-10,Colorado,San Jose,2-1,2,1,west,west,3,regular,,,,,,h
+2019,291,2019-08-10,Chicago,Montreal,3-2,3,2,east,west,5,regular,,,,,,h
+2019,292,2019-08-10,Portland,Vancouver,3-1,3,1,west,west,4,regular,,,,,,h
+2019,293,2019-08-11,Atlanta,NYCFC,2-1,2,1,east,east,3,regular,,,,,,h
+2019,294,2019-08-11,Philadelphia,Houston,2-1,2,1,east,west,3,regular,,,,,,h
+2019,295,2019-08-11,D.C. United,LA Galaxy,2-1,2,1,east,west,3,regular,,,,,,h
+2019,296,2019-08-11,Los Angeles FC,NY Red Bulls,4-2,4,2,west,east,6,regular,,,,,,h
+2019,297,2019-08-14,Orlando City,Sporting KC,1-0,1,0,east,west,1,regular,,,,,,h
+2019,298,2019-08-14,Minnesota,Colorado,1-0,1,0,west,west,1,regular,,,,,,h
+2019,299,2019-08-14,Real Salt Lake,Seattle,3-0,3,0,west,west,3,regular,,,,,,h
+2019,300,2019-08-14,LA Galaxy,FC Dallas,2-0,2,0,west,west,2,regular,,,,,,h
+2019,301,2019-08-14,Portland,Chicago,3-2,3,2,west,east,5,regular,,,,,,h
+2019,302,2019-08-17,NY Red Bulls,New England,1-1,1,1,east,east,2,regular,,,,,,t
+2019,303,2019-08-17,FC Cincinnati,NYCFC,1-4,1,4,east,east,5,regular,,,,,,a
+2019,304,2019-08-17,Columbus,Toronto FC,2-2,2,2,east,east,4,regular,,,,,,t
+2019,305,2019-08-17,Montreal,FC Dallas,3-3,3,3,east,west,6,regular,,,,,,t
+2019,306,2019-08-17,Chicago,Philadelphia,2-0,2,0,east,east,2,regular,,,,,,h
+2019,307,2019-08-17,Minnesota,Orlando City,1-1,1,1,west,east,2,regular,,,,,,t
+2019,308,2019-08-17,Sporting KC,San Jose,2-1,2,1,west,west,3,regular,,,,,,h
+2019,309,2019-08-17,Houston,Colorado,2-2,2,2,west,west,4,regular,,,,,,t
+2019,310,2019-08-17,LA Galaxy,Seattle,2-2,2,2,west,west,4,regular,,,,,,t
+2019,311,2019-08-17,Vancouver,D.C. United,1-0,1,0,west,east,1,regular,,,,,,h
+2019,312,2019-08-17,Real Salt Lake,Los Angeles FC,0-2,0,2,west,west,2,regular,,,,,,a
+2019,313,2019-08-18,Portland,Atlanta,0-2,0,2,west,east,2,regular,,,,,,a
+2019,314,2019-08-21,NYCFC,Columbus,1-0,1,0,east,east,1,regular,,,,,,h
+2019,315,2019-08-21,D.C. United,NY Red Bulls,1-2,1,2,east,east,3,regular,,,,,,a
+2019,316,2019-08-21,Los Angeles FC,San Jose,4-0,4,0,west,west,4,regular,,,,,,h
+2019,317,2019-08-22,Sporting KC,Minnesota,1-0,1,0,west,west,1,regular,,,,,,h
+2019,318,2019-08-23,Orlando City,Atlanta,0-1,0,1,east,east,1,regular,,,,,,a
+2019,319,2019-08-23,Portland,Seattle,1-2,1,2,west,west,3,regular,,,,,,a
+2019,320,2019-08-24,NYCFC,NY Red Bulls,2-1,2,1,east,east,3,regular,,,,,,h
+2019,321,2019-08-24,New England,Chicago,2-1,2,1,east,east,3,regular,,,,,,h
+2019,322,2019-08-24,Toronto FC,Montreal,2-1,2,1,east,east,3,regular,,,,,,h
+2019,323,2019-08-24,Philadelphia,D.C. United,3-1,3,1,east,east,4,regular,,,,,,h
+2019,324,2019-08-24,San Jose,Vancouver,3-1,3,1,west,west,4,regular,,,,,,h
+2019,325,2019-08-24,Real Salt Lake,Colorado,2-0,2,0,west,west,2,regular,,,,,,h
+2019,326,2019-08-25,FC Cincinnati,Columbus,1-3,1,3,east,east,4,regular,,,,,,a
+2019,327,2019-08-25,FC Dallas,Houston,5-1,5,1,west,west,6,regular,,,,,,h
+2019,328,2019-08-25,Los Angeles FC,LA Galaxy,3-3,3,3,west,west,6,regular,,,,,,t
+2019,329,2019-08-28,Montreal,Vancouver,2-1,2,1,east,west,3,regular,,,,,,h
+2019,330,2019-08-31,NY Red Bulls,Colorado,0-2,0,2,east,west,2,regular,,,,,,a
+2019,331,2019-08-31,Columbus,Chicago,1-1,1,1,east,east,2,regular,,,,,,t
+2019,332,2019-08-31,New England,Toronto FC,1-1,1,1,east,east,2,regular,,,,,,t
+2019,333,2019-08-31,Philadelphia,Atlanta,3-1,3,1,east,east,4,regular,,,,,,h
+2019,334,2019-08-31,Montreal,D.C. United,0-3,0,3,east,east,3,regular,,,,,,a
+2019,335,2019-08-31,FC Dallas,FC Cincinnati,3-1,3,1,west,east,4,regular,,,,,,h
+2019,336,2019-08-31,Sporting KC,Houston,1-0,1,0,west,west,1,regular,,,,,,h
+2019,337,2019-08-31,Vancouver,NYCFC,1-3,1,3,west,east,4,regular,,,,,,a
+2019,338,2019-08-31,San Jose,Orlando City,3-0,3,0,west,east,3,regular,,,,,,h
+2019,339,2019-08-31,Portland,Real Salt Lake,1-0,1,0,west,west,1,regular,,,,,,h
+2019,340,2019-09-01,Seattle,LA Galaxy,4-3,4,3,west,west,7,regular,,,,,,h
+2019,341,2019-09-01,Los Angeles FC,Minnesota,0-2,0,2,west,west,2,regular,,,,,,a
+2019,342,2019-09-07,NYCFC,New England,2-1,2,1,east,east,3,regular,,,,,,h
+2019,343,2019-09-07,FC Cincinnati,Toronto FC,1-5,1,5,east,east,6,regular,,,,,,a
+2019,344,2019-09-07,Orlando City,Los Angeles FC,2-2,2,2,east,west,4,regular,,,,,,t
+2019,345,2019-09-07,Colorado,Seattle,2-0,2,0,west,west,2,regular,,,,,,h
+2019,346,2019-09-07,Portland,Sporting KC,2-1,2,1,west,west,3,regular,,,,,,h
+2019,347,2019-09-11,NYCFC,Toronto FC,1-1,1,1,east,east,2,regular,,,,,,t
+2019,348,2019-09-11,Houston,Minnesota,2-0,2,0,west,west,2,regular,,,,,,h
+2019,349,2019-09-11,Colorado,LA Galaxy,2-1,2,1,west,west,3,regular,,,,,,h
+2019,350,2019-09-11,Real Salt Lake,San Jose,1-0,1,0,west,west,1,regular,,,,,,h
+2019,351,2019-09-14,NYCFC,San Jose,2-1,2,1,east,west,3,regular,,,,,,h
+2019,352,2019-09-14,Chicago,FC Dallas,4-0,4,0,east,west,4,regular,,,,,,h
+2019,353,2019-09-14,Atlanta,Columbus,1-3,1,3,east,east,4,regular,,,,,,a
+2019,354,2019-09-14,Montreal,FC Cincinnati,0-1,0,1,east,east,1,regular,,,,,,a
+2019,355,2019-09-14,Philadelphia,Los Angeles FC,1-1,1,1,east,west,2,regular,,,,,,t
+2019,356,2019-09-14,Orlando City,New England,3-3,3,3,east,east,6,regular,,,,,,t
+2019,357,2019-09-14,Vancouver,Houston,2-1,2,1,west,west,3,regular,,,,,,h
+2019,358,2019-09-15,Portland,D.C. United,0-1,0,1,west,east,1,regular,,,,,,a
+2019,359,2019-09-15,Toronto FC,Colorado,3-2,3,2,east,west,5,regular,,,,,,h
+2019,360,2019-09-15,Minnesota,Real Salt Lake,3-1,3,1,west,west,4,regular,,,,,,h
+2019,361,2019-09-15,Seattle,NY Red Bulls,4-2,4,2,west,east,6,regular,,,,,,h
+2019,362,2019-09-15,LA Galaxy,Sporting KC,7-2,7,2,west,west,9,regular,,,,,,h
+2019,363,2019-09-18,FC Cincinnati,Atlanta,0-2,0,2,east,east,2,regular,,,,,,a
+2019,364,2019-09-18,Seattle,FC Dallas,0-0,0,0,west,west,0,regular,,,,,,t
+2019,365,2019-09-18,Portland,NY Red Bulls,0-2,0,2,west,east,2,regular,,,,,,a
+2019,366,2019-09-21,Atlanta,San Jose,3-1,3,1,east,west,4,regular,,,,,,h
+2019,367,2019-09-21,Vancouver,Columbus,1-1,1,1,west,east,2,regular,,,,,,t
+2019,368,2019-09-21,New England,Real Salt Lake,0-0,0,0,east,west,0,regular,,,,,,t
+2019,369,2019-09-21,FC Cincinnati,Chicago,0-0,0,0,east,east,0,regular,,,,,,t
+2019,370,2019-09-21,Houston,Orlando City,2-1,2,1,west,east,3,regular,,,,,,h
+2019,371,2019-09-21,Sporting KC,Colorado,2-3,2,3,west,west,5,regular,,,,,,a
+2019,372,2019-09-21,Los Angeles FC,Toronto FC,1-1,1,1,west,east,2,regular,,,,,,t
+2019,373,2019-09-21,LA Galaxy,Montreal,2-1,2,1,west,east,3,regular,,,,,,h
+2019,374,2019-09-22,Portland,Minnesota,0-0,0,0,west,west,0,regular,,,,,,t
+2019,375,2019-09-22,FC Dallas,NYCFC,1-1,1,1,west,east,2,regular,,,,,,t
+2019,376,2019-09-22,NY Red Bulls,Philadelphia,2-0,2,0,east,east,2,regular,,,,,,h
+2019,377,2019-09-22,D.C. United,Seattle,2-0,2,0,east,west,2,regular,,,,,,h
+2019,378,2019-09-25,NYCFC,Atlanta,4-1,4,1,east,east,5,regular,,,,,,h
+2019,379,2019-09-25,Minnesota,Sporting KC,2-1,2,1,west,west,3,regular,,,,,,h
+2019,380,2019-09-25,Real Salt Lake,LA Galaxy,1-2,1,2,west,west,3,regular,,,,,,a
+2019,381,2019-09-25,Portland,New England,2-2,2,2,west,east,4,regular,,,,,,t
+2019,382,2019-09-25,Los Angeles FC,Houston,3-1,3,1,west,west,4,regular,,,,,,h
+2019,383,2019-09-25,San Jose,Philadelphia,1-2,1,2,west,east,3,regular,,,,,,a
+2019,384,2019-09-29,Chicago,Toronto FC,2-2,2,2,east,east,4,regular,,,,,,t
+2019,385,2019-09-29,FC Cincinnati,Orlando City,1-1,1,1,east,east,2,regular,,,,,,t
+2019,386,2019-09-29,Columbus,Philadelphia,2-0,2,0,east,east,2,regular,,,,,,h
+2019,387,2019-09-29,NY Red Bulls,D.C. United,0-0,0,0,east,east,0,regular,,,,,,t
+2019,388,2019-09-29,New England,NYCFC,2-0,2,0,east,east,2,regular,,,,,,h
+2019,389,2019-09-29,Montreal,Atlanta,1-1,1,1,east,east,2,regular,,,,,,t
+2019,390,2019-09-29,LA Galaxy,Vancouver,3-4,3,4,west,west,7,regular,,,,,,a
+2019,391,2019-09-29,San Jose,Seattle,0-1,0,1,west,west,1,regular,,,,,,a
+2019,392,2019-09-29,Real Salt Lake,Houston,2-1,2,1,west,west,3,regular,,,,,,h
+2019,393,2019-09-29,Colorado,FC Dallas,3-0,3,0,west,west,3,regular,,,,,,h
+2019,394,2019-09-29,Sporting KC,Portland,2-2,2,2,west,west,4,regular,,,,,,t
+2019,395,2019-09-29,Minnesota,Los Angeles FC,1-1,1,1,west,west,2,regular,,,,,,t
+2019,396,2019-10-06,Los Angeles FC,Colorado,3-1,3,1,west,west,4,regular,,,,,,h
+2019,397,2019-10-06,Seattle,Minnesota,1-0,1,0,west,west,1,regular,,,,,,h
+2019,398,2019-10-06,Portland,San Jose,3-1,3,1,west,west,4,regular,,,,,,h
+2019,399,2019-10-06,Vancouver,Real Salt Lake,0-1,0,1,west,west,1,regular,,,,,,a
+2019,400,2019-10-06,FC Dallas,Sporting KC,6-0,6,0,west,west,6,regular,,,,,,h
+2019,401,2019-10-06,Houston,LA Galaxy,4-2,4,2,west,west,6,regular,,,,,,h
+2019,402,2019-10-06,Atlanta,New England,3-1,3,1,east,east,4,regular,,,,,,h
+2019,403,2019-10-06,Toronto FC,Columbus,1-0,1,0,east,east,1,regular,,,,,,h
+2019,404,2019-10-06,Philadelphia,NYCFC,1-2,1,2,east,east,3,regular,,,,,,a
+2019,405,2019-10-06,Orlando City,Chicago,2-5,2,5,east,east,8,regular,,,,,,a
+2019,406,2019-10-06,D.C. United,FC Cincinnati,0-0,0,0,east,east,0,regular,,,,,,t
+2019,407,2019-10-06,Montreal,NY Red Bulls,3-0,3,0,east,east,3,regular,,,,,,h
