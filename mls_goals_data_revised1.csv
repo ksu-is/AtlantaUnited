@@ -1,0 +1,409 @@
+Season,Unnamed: 0,Date,home,visitor,FT,hgoal,vgoal,hconf,vconf,totgoal,round,leg,hgoalaet,vgoalaet,hpen,vpen,hwins
+2019,0,3/2/19,Philadelphia,Toronto FC,1Ð3,1,3,east,east,4,regular,,,,,,a
+2019,1,3/2/19,Orlando City,NYCFC,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,2,3/2/19,FC Dallas,New England,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,3,3/2/19,Columbus,NY Red Bulls,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,4,3/2/19,Vancouver,Minnesota,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,5,3/2/19,Colorado,Portland,3Ð3,3,3,west,west,6,regular,,,,,,t
+2019,6,3/2/19,Houston,Real Salt Lake,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,7,3/2/19,LA Galaxy,Chicago,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,8,3/2/19,Seattle,FC Cincinnati,4Ð1,4,1,west,east,5,regular,,,,,,h
+2019,9,3/2/19,San Jose,Montreal,1Ð2,1,2,west,east,3,regular,,,,,,a
+2019,10,3/3/19,D.C. United,Atlanta,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,11,3/3/19,Los Angeles FC,Sporting KC,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,12,3/9/19,Chicago,Orlando City,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,13,3/9/19,New England,Columbus,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,14,3/9/19,FC Dallas,LA Galaxy,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,15,3/9/19,Houston,Montreal,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,16,3/9/19,Real Salt Lake,Vancouver,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,17,3/9/19,San Jose,Minnesota,0Ð3,0,3,west,west,3,regular,,,,,,a
+2019,18,3/9/19,Seattle,Colorado,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,19,3/10/19,Sporting KC,Philadelphia,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,20,3/10/19,NYCFC,D.C. United,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,21,3/10/19,Atlanta,FC Cincinnati,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,22,3/10/19,Los Angeles FC,Portland,4Ð1,4,1,west,west,5,regular,,,,,,h
+2019,23,3/16/19,Chicago,Seattle,2Ð4,2,4,east,west,6,regular,,,,,,a
+2019,24,3/16/19,Columbus,FC Dallas,1Ð0,1,0,east,west,1,regular,,,,,,h
+2019,25,3/16/19,Houston,Vancouver,3Ð2,3,2,west,west,5,regular,,,,,,h
+2019,26,3/16/19,NY Red Bulls,San Jose,4Ð1,4,1,east,west,5,regular,,,,,,h
+2019,27,3/16/19,Orlando City,Montreal,1Ð3,1,3,east,east,4,regular,,,,,,a
+2019,28,3/16/19,D.C. United,Real Salt Lake,5Ð0,5,0,east,west,5,regular,,,,,,h
+2019,29,3/16/19,LA Galaxy,Minnesota,3Ð2,3,2,west,west,5,regular,,,,,,h
+2019,30,3/17/19,NYCFC,Los Angeles FC,2Ð2,2,2,east,west,4,regular,,,,,,t
+2019,31,3/17/19,FC Cincinnati,Portland,3Ð0,3,0,east,west,3,regular,,,,,,h
+2019,32,3/17/19,Atlanta,Philadelphia,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,33,3/17/19,Toronto FC,New England,3Ð2,3,2,east,east,5,regular,,,,,,h
+2019,34,3/17/19,Colorado,Sporting KC,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,35,3/23/19,FC Dallas,Colorado,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,36,3/23/19,NY Red Bulls,Orlando City,0Ð1,0,1,east,east,1,regular,,,,,,a
+2019,37,3/23/19,Philadelphia,Columbus,3Ð0,3,0,east,east,3,regular,,,,,,h
+2019,38,3/23/19,Los Angeles FC,Real Salt Lake,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,39,3/24/19,New England,FC Cincinnati,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,40,3/29/19,Toronto FC,NYCFC,4Ð0,4,0,east,east,4,regular,,,,,,h
+2019,41,3/30/19,Chicago,NY Red Bulls,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,42,3/30/19,New England,Minnesota,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,43,3/30/19,Sporting KC,Montreal,7Ð1,7,1,west,east,8,regular,,,,,,h
+2019,44,3/30/19,San Jose,Los Angeles FC,0Ð5,0,5,west,west,5,regular,,,,,,a
+2019,45,3/30/19,FC Cincinnati,Philadelphia,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,46,3/30/19,Columbus,Atlanta,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,47,3/30/19,Real Salt Lake,FC Dallas,2Ð4,2,4,west,west,6,regular,,,,,,a
+2019,48,3/30/19,Colorado,Houston,1Ð4,1,4,west,west,5,regular,,,,,,a
+2019,49,3/30/19,Vancouver,Seattle,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,50,3/31/19,Orlando City,D.C. United,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,51,3/31/19,LA Galaxy,Portland,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,52,4/5/19,Vancouver,LA Galaxy,0Ð2,0,2,west,west,2,regular,,,,,,a
+2019,53,4/6/19,NYCFC,Montreal,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,54,4/6/19,D.C. United,Los Angeles FC,0Ð4,0,4,east,west,4,regular,,,,,,t
+2019,55,4/6/19,Toronto FC,Chicago,2Ð2,2,2,east,east,4,regular,,,,,,a
+2019,56,4/6/19,NY Red Bulls,Minnesota,1Ð2,1,2,east,west,3,regular,,,,,,h
+2019,57,4/6/19,Orlando City,Colorado,4Ð3,4,3,east,west,7,regular,,,,,,h
+2019,58,4/6/19,Columbus,New England,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,59,4/6/19,Philadelphia,FC Dallas,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,60,4/6/19,San Jose,Portland,3Ð0,3,0,west,west,3,regular,,,,,,h
+2019,61,4/6/19,Seattle,Real Salt Lake,1Ð0,1,0,west,west,1,regular,,,,,,t
+2019,62,4/7/19,FC Cincinnati,Sporting KC,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,63,4/9/19,D.C. United,Montreal,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,64,4/12/19,Chicago,Vancouver,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,65,4/13/19,Montreal,Columbus,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,66,4/13/19,Houston,San Jose,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,67,4/13/19,Seattle,Toronto FC,3Ð2,3,2,west,east,5,regular,,,,,,h
+2019,68,4/13/19,Minnesota,NYCFC,3Ð3,3,3,west,east,6,regular,,,,,,t
+2019,69,4/13/19,New England,Atlanta,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,70,4/13/19,FC Dallas,Portland,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,71,4/13/19,Colorado,D.C. United,2Ð3,2,3,west,east,5,regular,,,,,,a
+2019,72,4/13/19,Real Salt Lake,Orlando City,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,73,4/13/19,LA Galaxy,Philadelphia,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,74,4/13/19,Los Angeles FC,FC Cincinnati,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,75,4/14/19,Sporting KC,NY Red Bulls,2Ð2,2,2,west,east,4,regular,,,,,,t
+2019,76,4/17/19,Vancouver,Los Angeles FC,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,77,4/19/19,FC Cincinnati,Real Salt Lake,0Ð3,0,3,east,west,3,regular,,,,,,a
+2019,78,4/19/19,Toronto FC,Minnesota,4Ð3,4,3,east,west,7,regular,,,,,,h
+2019,79,4/19/19,LA Galaxy,Houston,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,80,4/20/19,Chicago,Colorado,4Ð1,4,1,east,west,5,regular,,,,,,h
+2019,81,4/20/19,Philadelphia,Montreal,3Ð0,3,0,east,east,3,regular,,,,,,h
+2019,82,4/20/19,Orlando City,Vancouver,1Ð0,1,0,east,west,1,regular,,,,,,h
+2019,83,4/20/19,Atlanta,FC Dallas,1Ð2,1,2,east,west,3,regular,,,,,,a
+2019,84,4/20/19,New England,NY Red Bulls,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,85,4/20/19,Columbus,Portland,1Ð3,1,3,east,west,4,regular,,,,,,a
+2019,86,4/20/19,San Jose,Sporting KC,4Ð1,4,1,west,west,5,regular,,,,,,h
+2019,87,4/21/19,D.C. United,NYCFC,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,88,4/21/19,Los Angeles FC,Seattle,4Ð1,4,1,west,west,5,regular,,,,,,h
+2019,89,4/24/19,NYCFC,Chicago,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,90,4/24/19,New England,Montreal,0Ð3,0,3,east,east,3,regular,,,,,,a
+2019,91,4/24/19,Columbus,D.C. United,0Ð1,0,1,east,east,1,regular,,,,,,a
+2019,92,4/24/19,Minnesota,LA Galaxy,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,93,4/24/19,Seattle,San Jose,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,94,4/27/19,NYCFC,Orlando City,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,95,4/27/19,Toronto FC,Portland,1Ð2,1,2,east,west,3,regular,,,,,,a
+2019,96,4/27/19,FC Dallas,San Jose,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,97,4/27/19,Vancouver,Philadelphia,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,98,4/27/19,Atlanta,Colorado,1Ð0,1,0,east,west,1,regular,,,,,,h
+2019,99,4/27/19,NY Red Bulls,FC Cincinnati,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,100,4/27/19,Sporting KC,New England,4Ð4,4,4,west,east,8,regular,,,,,,t
+2019,101,4/27/19,Houston,Columbus,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,102,4/28/19,Montreal,Chicago,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,103,4/28/19,Minnesota,D.C. United,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,104,4/28/19,Seattle,Los Angeles FC,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,105,4/28/19,LA Galaxy,Real Salt Lake,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,106,5/1/19,Philadelphia,FC Cincinnati,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,107,5/3/19,Colorado,Vancouver,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,108,5/4/19,NY Red Bulls,LA Galaxy,3Ð2,3,2,east,west,5,regular,,,,,,h
+2019,109,5/4/19,Houston,FC Dallas,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,110,5/4/19,Orlando City,Toronto FC,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,111,5/4/19,Montreal,NYCFC,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,112,5/4/19,Philadelphia,New England,6Ð1,6,1,east,east,7,regular,,,,,,h
+2019,113,5/4/19,Minnesota,Seattle,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,114,5/4/19,D.C. United,Columbus,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,115,5/4/19,Real Salt Lake,Portland,1Ð2,1,2,west,west,3,regular,,,,,,a
+2019,116,5/4/19,San Jose,FC Cincinnati,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,117,5/4/19,Los Angeles FC,Chicago,0Ð0,0,0,west,east,0,regular,,,,,,t
+2019,118,5/5/19,Sporting KC,Atlanta,0Ð3,0,3,west,east,3,regular,,,,,,a
+2019,119,5/8/19,Atlanta,Toronto FC,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,120,5/8/19,Columbus,LA Galaxy,3Ð1,3,1,east,west,4,regular,,,,,,h
+2019,121,5/8/19,Chicago,New England,5Ð0,5,0,east,east,5,regular,,,,,,h
+2019,122,5/8/19,NY Red Bulls,Montreal,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,123,5/10/19,Vancouver,Portland,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,124,5/11/19,FC Cincinnati,Montreal,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,125,5/11/19,FC Dallas,NY Red Bulls,1Ð3,1,3,west,east,4,regular,,,,,,a
+2019,126,5/11/19,Toronto FC,Philadelphia,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,127,5/11/19,LA Galaxy,NYCFC,0Ð2,0,2,west,east,2,regular,,,,,,a
+2019,128,5/11/19,Columbus,Los Angeles FC,0Ð3,0,3,east,west,3,regular,,,,,,a
+2019,129,5/11/19,New England,San Jose,3Ð1,3,1,east,west,4,regular,,,,,,h
+2019,130,5/11/19,Chicago,Minnesota,2Ð0,2,0,east,west,2,regular,,,,,,h
+2019,131,5/11/19,Colorado,Real Salt Lake,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,132,5/11/19,Seattle,Houston,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,133,5/12/19,Atlanta,Orlando City,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,134,5/12/19,D.C. United,Sporting KC,1Ð0,1,0,east,west,1,regular,,,,,,h
+2019,135,5/15/19,Toronto FC,D.C. United,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,136,5/15/19,Houston,Portland,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,137,5/15/19,Vancouver,Atlanta,0Ð1,0,1,west,east,1,regular,,,,,,a
+2019,138,5/15/19,Seattle,Orlando City,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,139,5/16/19,Los Angeles FC,FC Dallas,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,140,5/18/19,Montreal,New England,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,141,5/18/19,Real Salt Lake,Toronto FC,3Ð0,3,0,west,east,3,regular,,,,,,h
+2019,142,5/18/19,San Jose,Chicago,4Ð1,4,1,west,east,5,regular,,,,,,h
+2019,143,5/18/19,Philadelphia,Seattle,0Ð0,0,0,east,west,0,regular,,,,,,t
+2019,144,5/18/19,Minnesota,Columbus,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,145,5/18/19,Sporting KC,Vancouver,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,146,5/18/19,Houston,D.C. United,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,147,5/19/19,Orlando City,FC Cincinnati,5Ð1,5,1,east,east,6,regular,,,,,,h
+2019,148,5/19/19,NY Red Bulls,Atlanta,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,149,5/19/19,FC Dallas,Los Angeles FC,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,150,5/19/19,LA Galaxy,Colorado,0Ð1,0,1,west,west,1,regular,,,,,,a
+2019,151,5/22/19,NY Red Bulls,Vancouver,2Ð2,2,2,east,west,4,regular,,,,,,t
+2019,152,5/24/19,Orlando City,LA Galaxy,0Ð1,0,1,east,west,1,regular,,,,,,a
+2019,153,5/24/19,Real Salt Lake,Atlanta,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,154,5/24/19,Los Angeles FC,Montreal,4Ð2,4,2,west,east,6,regular,,,,,,h
+2019,155,5/25/19,Chicago,NYCFC,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,156,5/25/19,Vancouver,FC Dallas,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,157,5/25/19,New England,D.C. United,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,158,5/25/19,FC Cincinnati,NY Red Bulls,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,159,5/25/19,Philadelphia,Portland,1Ð3,1,3,east,west,4,regular,,,,,,a
+2019,160,5/25/19,Minnesota,Houston,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,161,5/25/19,Colorado,Columbus,3Ð2,3,2,west,east,5,regular,,,,,,h
+2019,162,5/26/19,Sporting KC,Seattle,3Ð2,3,2,west,west,5,regular,,,,,,h
+2019,163,5/26/19,Toronto FC,San Jose,1Ð2,1,2,east,west,3,regular,,,,,,a
+2019,164,5/29/19,Atlanta,Minnesota,3Ð0,3,0,east,west,3,regular,,,,,,h
+2019,165,5/29/19,Montreal,Real Salt Lake,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,166,5/29/19,D.C. United,Chicago,3Ð3,3,3,east,east,6,regular,,,,,,t
+2019,167,5/29/19,Sporting KC,LA Galaxy,0Ð2,0,2,west,west,2,regular,,,,,,a
+2019,168,5/29/19,Philadelphia,Colorado,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,169,5/31/19,Vancouver,Toronto FC,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,170,6/1/19,Montreal,Orlando City,0Ð3,0,3,east,east,3,regular,,,,,,a
+2019,171,6/1/19,Atlanta,Chicago,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,172,6/1/19,NY Red Bulls,Real Salt Lake,4Ð0,4,0,east,west,4,regular,,,,,,h
+2019,173,6/1/19,Columbus,NYCFC,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,174,6/1/19,FC Dallas,Seattle,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,175,6/1/19,D.C. United,San Jose,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,176,6/1/19,Colorado,FC Cincinnati,3Ð1,3,1,west,east,4,regular,,,,,,h
+2019,177,6/1/19,Houston,Sporting KC,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,178,6/1/19,Portland,Los Angeles FC,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,179,6/2/19,Minnesota,Philadelphia,2Ð3,2,3,west,east,5,regular,,,,,,a
+2019,180,6/2/19,LA Galaxy,New England,1Ð2,1,2,west,east,3,regular,,,,,,a
+2019,181,6/5/19,Montreal,Seattle,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,182,6/6/19,NYCFC,FC Cincinnati,5Ð2,5,2,east,east,7,regular,,,,,,h
+2019,183,6/7/19,Toronto FC,Sporting KC,2Ð2,2,2,east,west,4,regular,,,,,,t
+2019,184,6/8/19,San Jose,FC Dallas,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,185,6/8/19,Philadelphia,NY Red Bulls,3Ð2,3,2,east,east,5,regular,,,,,,h
+2019,186,6/8/19,Colorado,Minnesota,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,187,6/22/19,FC Cincinnati,LA Galaxy,0Ð2,0,2,east,west,2,regular,,,,,,a
+2019,188,6/22/19,FC Dallas,Toronto FC,3Ð0,3,0,west,east,3,regular,,,,,,h
+2019,189,6/22/19,Chicago,Real Salt Lake,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,190,6/22/19,Vancouver,Colorado,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,191,6/22/19,Portland,Houston,4Ð0,4,0,west,west,4,regular,,,,,,h
+2019,192,6/23/19,Columbus,Sporting KC,0Ð1,0,1,east,west,1,regular,,,,,,a
+2019,193,6/26/19,New England,Philadelphia,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,194,6/26/19,Montreal,Portland,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,195,6/26/19,Toronto FC,Atlanta,3Ð2,3,2,east,east,5,regular,,,,,,h
+2019,196,6/26/19,D.C. United,Orlando City,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,197,6/26/19,FC Dallas,Vancouver,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,198,6/26/19,San Jose,Houston,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,199,6/28/19,NY Red Bulls,Chicago,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,200,6/28/19,Colorado,Los Angeles FC,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,201,6/29/19,Minnesota,FC Cincinnati,7Ð1,7,1,west,east,8,regular,,,,,,h
+2019,202,6/29/19,Atlanta,Montreal,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,203,6/29/19,NYCFC,Philadelphia,4Ð2,4,2,east,east,6,regular,,,,,,h
+2019,204,6/29/19,New England,Houston,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,205,6/29/19,Columbus,Orlando City,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,206,6/29/19,D.C. United,Toronto FC,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,207,6/29/19,Seattle,Vancouver,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,208,6/29/19,San Jose,LA Galaxy,3Ð0,3,0,west,west,3,regular,,,,,,h
+2019,209,6/29/19,Real Salt Lake,Sporting KC,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,210,6/30/19,Portland,FC Dallas,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,211,7/3/19,NYCFC,Seattle,3Ð0,3,0,east,west,3,regular,,,,,,h
+2019,212,7/3/19,Orlando City,Philadelphia,1Ð3,1,3,east,east,4,regular,,,,,,a
+2019,213,7/3/19,Chicago,Atlanta,5Ð1,5,1,east,east,6,regular,,,,,,h
+2019,214,7/3/19,Minnesota,San Jose,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,215,7/3/19,Sporting KC,Los Angeles FC,1Ð5,1,5,west,west,6,regular,,,,,,a
+2019,216,7/3/19,Houston,NY Red Bulls,4Ð0,4,0,west,east,4,regular,,,,,,h
+2019,217,7/3/19,Real Salt Lake,Columbus,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,218,7/4/19,Colorado,New England,1Ð2,1,2,west,east,3,regular,,,,,,a
+2019,219,7/4/19,FC Dallas,D.C. United,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,220,7/4/19,LA Galaxy,Toronto FC,2Ð0,2,0,west,east,2,regular,,,,,,h
+2019,221,7/6/19,Montreal,Minnesota,2Ð3,2,3,east,west,5,regular,,,,,,a
+2019,222,7/6/19,FC Cincinnati,Houston,3Ð2,3,2,east,west,5,regular,,,,,,h
+2019,223,7/6/19,Columbus,Seattle,1Ð2,1,2,east,west,3,regular,,,,,,a
+2019,224,7/6/19,Sporting KC,Chicago,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,225,7/6/19,Los Angeles FC,Vancouver,6Ð1,6,1,west,west,7,regular,,,,,,h
+2019,226,7/6/19,San Jose,Real Salt Lake,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,227,7/7/19,Atlanta,NY Red Bulls,3Ð3,3,3,east,east,6,regular,,,,,,t
+2019,228,7/7/19,Philadelphia,Orlando City,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,229,7/7/19,NYCFC,Portland,0Ð1,0,1,east,west,1,regular,,,,,,a
+2019,230,7/12/19,D.C. United,New England,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,231,7/12/19,Houston,Los Angeles FC,1Ð3,1,3,west,west,4,regular,,,,,,a
+2019,232,7/12/19,LA Galaxy,San Jose,1Ð3,1,3,west,west,4,regular,,,,,,a
+2019,233,7/13/19,Orlando City,Columbus,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,234,7/13/19,Montreal,Toronto FC,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,235,7/13/19,Chicago,FC Cincinnati,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,236,7/13/19,Minnesota,FC Dallas,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,237,7/13/19,Vancouver,Sporting KC,0Ð3,0,3,west,west,3,regular,,,,,,a
+2019,238,7/13/19,Real Salt Lake,Philadelphia,4Ð0,4,0,west,east,4,regular,,,,,,h
+2019,239,7/13/19,Portland,Colorado,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,240,7/14/19,Seattle,Atlanta,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,241,7/14/19,NY Red Bulls,NYCFC,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,242,7/17/19,New England,Vancouver,4Ð0,4,0,east,west,4,regular,,,,,,h
+2019,243,7/17/19,Atlanta,Houston,5Ð0,5,0,east,west,5,regular,,,,,,h
+2019,244,7/17/19,Chicago,Columbus,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,245,7/17/19,Toronto FC,NY Red Bulls,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,246,7/18/19,FC Cincinnati,D.C. United,1Ð4,1,4,east,east,5,regular,,,,,,a
+2019,247,7/18/19,Portland,Orlando City,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,248,7/19/19,LA Galaxy,Los Angeles FC,3Ð2,3,2,west,west,5,regular,,,,,,h
+2019,249,7/20/19,Columbus,Montreal,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,250,7/20/19,Toronto FC,Houston,1Ð3,1,3,east,west,4,regular,,,,,,a
+2019,251,7/20/19,Philadelphia,Chicago,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,252,7/20/19,Sporting KC,FC Dallas,0Ð2,0,2,west,west,2,regular,,,,,,a
+2019,253,7/20/19,Colorado,NYCFC,1Ð2,1,2,west,east,3,regular,,,,,,a
+2019,254,7/20/19,Vancouver,San Jose,1Ð3,1,3,west,west,4,regular,,,,,,a
+2019,255,7/20/19,Real Salt Lake,Minnesota,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,256,7/21/19,Atlanta,D.C. United,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,257,7/21/19,FC Cincinnati,New England,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,258,7/21/19,Orlando City,NY Red Bulls,0Ð1,0,1,east,east,1,regular,,,,,,a
+2019,259,7/21/19,Seattle,Portland,1Ð2,1,2,west,west,3,regular,,,,,,a
+2019,260,7/26/19,NYCFC,Sporting KC,3Ð1,3,1,east,west,4,regular,,,,,,h
+2019,261,7/26/19,Los Angeles FC,Atlanta,4Ð3,4,3,west,east,7,regular,,,,,,h
+2019,262,7/27/19,New England,Orlando City,4Ð1,4,1,east,east,5,regular,,,,,,h
+2019,263,7/27/19,NY Red Bulls,Columbus,2Ð3,2,3,east,east,5,regular,,,,,,a
+2019,264,7/27/19,FC Dallas,Real Salt Lake,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,265,7/27/19,Chicago,D.C. United,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,266,7/27/19,Minnesota,Vancouver,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,267,7/27/19,Houston,Seattle,0Ð1,0,1,west,west,1,regular,,,,,,a
+2019,268,7/27/19,Montreal,Philadelphia,4Ð0,4,0,east,east,4,regular,,,,,,h
+2019,269,7/27/19,Toronto FC,FC Cincinnati,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,270,7/27/19,San Jose,Colorado,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,271,7/27/19,Portland,LA Galaxy,4Ð0,4,0,west,west,4,regular,,,,,,h
+2019,272,8/3/19,Atlanta,LA Galaxy,3Ð0,3,0,east,west,3,regular,,,,,,h
+2019,273,8/3/19,NY Red Bulls,Toronto FC,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,274,8/3/19,New England,Los Angeles FC,0Ð2,0,2,east,west,2,regular,,,,,,a
+2019,275,8/3/19,Orlando City,FC Dallas,2Ð0,2,0,east,west,2,regular,,,,,,h
+2019,276,8/3/19,FC Cincinnati,Vancouver,1Ð2,1,2,east,west,3,regular,,,,,,a
+2019,277,8/3/19,Colorado,Montreal,6Ð3,6,3,west,east,9,regular,,,,,,h
+2019,278,8/3/19,Houston,Chicago,0Ð1,0,1,west,east,1,regular,,,,,,a
+2019,279,8/3/19,San Jose,Columbus,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,280,8/3/19,Real Salt Lake,NYCFC,3Ð1,3,1,west,east,4,regular,,,,,,h
+2019,281,8/4/19,Minnesota,Portland,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,282,8/4/19,D.C. United,Philadelphia,1Ð5,1,5,east,east,6,regular,,,,,,a
+2019,283,8/4/19,Seattle,Sporting KC,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,284,8/8/19,NYCFC,Houston,3Ð2,3,2,east,west,5,regular,,,,,,h
+2019,285,8/10/19,Seattle,New England,3Ð3,3,3,west,east,6,regular,,,,,,t
+2019,286,8/10/19,Toronto FC,Orlando City,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,287,8/10/19,Columbus,FC Cincinnati,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,288,8/10/19,FC Dallas,Minnesota,5Ð3,5,3,west,west,8,regular,,,,,,h
+2019,289,8/10/19,Sporting KC,Real Salt Lake,1Ð2,1,2,west,west,3,regular,,,,,,a
+2019,290,8/10/19,Colorado,San Jose,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,291,8/10/19,Chicago,Montreal,3Ð2,3,2,east,west,5,regular,,,,,,h
+2019,292,8/10/19,Portland,Vancouver,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,293,8/11/19,Atlanta,NYCFC,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,294,8/11/19,Philadelphia,Houston,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,295,8/11/19,D.C. United,LA Galaxy,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,296,8/11/19,Los Angeles FC,NY Red Bulls,4Ð2,4,2,west,east,6,regular,,,,,,h
+2019,297,8/14/19,Orlando City,Sporting KC,1Ð0,1,0,east,west,1,regular,,,,,,h
+2019,298,8/14/19,Minnesota,Colorado,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,299,8/14/19,Real Salt Lake,Seattle,3Ð0,3,0,west,west,3,regular,,,,,,h
+2019,300,8/14/19,LA Galaxy,FC Dallas,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,301,8/14/19,Portland,Chicago,3Ð2,3,2,west,east,5,regular,,,,,,h
+2019,302,8/17/19,NY Red Bulls,New England,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,303,8/17/19,FC Cincinnati,NYCFC,1Ð4,1,4,east,east,5,regular,,,,,,a
+2019,304,8/17/19,Columbus,Toronto FC,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,305,8/17/19,Montreal,FC Dallas,3Ð3,3,3,east,west,6,regular,,,,,,t
+2019,306,8/17/19,Chicago,Philadelphia,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,307,8/17/19,Minnesota,Orlando City,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,308,8/17/19,Sporting KC,San Jose,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,309,8/17/19,Houston,Colorado,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,310,8/17/19,LA Galaxy,Seattle,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,311,8/17/19,Vancouver,D.C. United,1Ð0,1,0,west,east,1,regular,,,,,,h
+2019,312,8/17/19,Real Salt Lake,Los Angeles FC,0Ð2,0,2,west,west,2,regular,,,,,,a
+2019,313,8/18/19,Portland,Atlanta,0Ð2,0,2,west,east,2,regular,,,,,,a
+2019,314,8/21/19,NYCFC,Columbus,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,315,8/21/19,D.C. United,NY Red Bulls,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,316,8/21/19,Los Angeles FC,San Jose,4Ð0,4,0,west,west,4,regular,,,,,,h
+2019,317,8/22/19,Sporting KC,Minnesota,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,318,8/23/19,Orlando City,Atlanta,0Ð1,0,1,east,east,1,regular,,,,,,a
+2019,319,8/23/19,Portland,Seattle,1Ð2,1,2,west,west,3,regular,,,,,,a
+2019,320,8/24/19,NYCFC,NY Red Bulls,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,321,8/24/19,New England,Chicago,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,322,8/24/19,Toronto FC,Montreal,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,323,8/24/19,Philadelphia,D.C. United,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,324,8/24/19,San Jose,Vancouver,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,325,8/24/19,Real Salt Lake,Colorado,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,326,8/25/19,FC Cincinnati,Columbus,1Ð3,1,3,east,east,4,regular,,,,,,a
+2019,327,8/25/19,FC Dallas,Houston,5Ð1,5,1,west,west,6,regular,,,,,,h
+2019,328,8/25/19,Los Angeles FC,LA Galaxy,3Ð3,3,3,west,west,6,regular,,,,,,t
+2019,329,8/28/19,Montreal,Vancouver,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,330,8/31/19,NY Red Bulls,Colorado,0Ð2,0,2,east,west,2,regular,,,,,,a
+2019,331,8/31/19,Columbus,Chicago,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,332,8/31/19,New England,Toronto FC,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,333,8/31/19,Philadelphia,Atlanta,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,334,8/31/19,Montreal,D.C. United,0Ð3,0,3,east,east,3,regular,,,,,,a
+2019,335,8/31/19,FC Dallas,FC Cincinnati,3Ð1,3,1,west,east,4,regular,,,,,,h
+2019,336,8/31/19,Sporting KC,Houston,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,337,8/31/19,Vancouver,NYCFC,1Ð3,1,3,west,east,4,regular,,,,,,a
+2019,338,8/31/19,San Jose,Orlando City,3Ð0,3,0,west,east,3,regular,,,,,,h
+2019,339,8/31/19,Portland,Real Salt Lake,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,340,9/1/19,Seattle,LA Galaxy,4Ð3,4,3,west,west,7,regular,,,,,,h
+2019,341,9/1/19,Los Angeles FC,Minnesota,0Ð2,0,2,west,west,2,regular,,,,,,a
+2019,342,9/7/19,NYCFC,New England,2Ð1,2,1,east,east,3,regular,,,,,,h
+2019,343,9/7/19,FC Cincinnati,Toronto FC,1Ð5,1,5,east,east,6,regular,,,,,,a
+2019,344,9/7/19,Orlando City,Los Angeles FC,2Ð2,2,2,east,west,4,regular,,,,,,t
+2019,345,9/7/19,Colorado,Seattle,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,346,9/7/19,Portland,Sporting KC,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,347,9/11/19,NYCFC,Toronto FC,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,348,9/11/19,Houston,Minnesota,2Ð0,2,0,west,west,2,regular,,,,,,h
+2019,349,9/11/19,Colorado,LA Galaxy,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,350,9/11/19,Real Salt Lake,San Jose,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,351,9/14/19,NYCFC,San Jose,2Ð1,2,1,east,west,3,regular,,,,,,h
+2019,352,9/14/19,Chicago,FC Dallas,4Ð0,4,0,east,west,4,regular,,,,,,h
+2019,353,9/14/19,Atlanta,Columbus,1Ð3,1,3,east,east,4,regular,,,,,,a
+2019,354,9/14/19,Montreal,FC Cincinnati,0Ð1,0,1,east,east,1,regular,,,,,,a
+2019,355,9/14/19,Philadelphia,Los Angeles FC,1Ð1,1,1,east,west,2,regular,,,,,,t
+2019,356,9/14/19,Orlando City,New England,3Ð3,3,3,east,east,6,regular,,,,,,t
+2019,357,9/14/19,Vancouver,Houston,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,358,9/15/19,Portland,D.C. United,0Ð1,0,1,west,east,1,regular,,,,,,a
+2019,359,9/15/19,Toronto FC,Colorado,3Ð2,3,2,east,west,5,regular,,,,,,h
+2019,360,9/15/19,Minnesota,Real Salt Lake,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,361,9/15/19,Seattle,NY Red Bulls,4Ð2,4,2,west,east,6,regular,,,,,,h
+2019,362,9/15/19,LA Galaxy,Sporting KC,7Ð2,7,2,west,west,9,regular,,,,,,h
+2019,363,9/18/19,FC Cincinnati,Atlanta,0Ð2,0,2,east,east,2,regular,,,,,,a
+2019,364,9/18/19,Seattle,FC Dallas,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,365,9/18/19,Portland,NY Red Bulls,0Ð2,0,2,west,east,2,regular,,,,,,a
+2019,366,9/21/19,Atlanta,San Jose,3Ð1,3,1,east,west,4,regular,,,,,,h
+2019,367,9/21/19,Vancouver,Columbus,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,368,9/21/19,New England,Real Salt Lake,0Ð0,0,0,east,west,0,regular,,,,,,t
+2019,369,9/21/19,FC Cincinnati,Chicago,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,370,9/21/19,Houston,Orlando City,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,371,9/21/19,Sporting KC,Colorado,2Ð3,2,3,west,west,5,regular,,,,,,a
+2019,372,9/21/19,Los Angeles FC,Toronto FC,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,373,9/21/19,LA Galaxy,Montreal,2Ð1,2,1,west,east,3,regular,,,,,,h
+2019,374,9/22/19,Portland,Minnesota,0Ð0,0,0,west,west,0,regular,,,,,,t
+2019,375,9/22/19,FC Dallas,NYCFC,1Ð1,1,1,west,east,2,regular,,,,,,t
+2019,376,9/22/19,NY Red Bulls,Philadelphia,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,377,9/22/19,D.C. United,Seattle,2Ð0,2,0,east,west,2,regular,,,,,,h
+2019,378,9/25/19,NYCFC,Atlanta,4Ð1,4,1,east,east,5,regular,,,,,,h
+2019,379,9/25/19,Minnesota,Sporting KC,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,380,9/25/19,Real Salt Lake,LA Galaxy,1Ð2,1,2,west,west,3,regular,,,,,,a
+2019,381,9/25/19,Portland,New England,2Ð2,2,2,west,east,4,regular,,,,,,t
+2019,382,9/25/19,Los Angeles FC,Houston,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,383,9/25/19,San Jose,Philadelphia,1Ð2,1,2,west,east,3,regular,,,,,,a
+2019,384,9/29/19,Chicago,Toronto FC,2Ð2,2,2,east,east,4,regular,,,,,,t
+2019,385,9/29/19,FC Cincinnati,Orlando City,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,386,9/29/19,Columbus,Philadelphia,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,387,9/29/19,NY Red Bulls,D.C. United,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,388,9/29/19,New England,NYCFC,2Ð0,2,0,east,east,2,regular,,,,,,h
+2019,389,9/29/19,Montreal,Atlanta,1Ð1,1,1,east,east,2,regular,,,,,,t
+2019,390,9/29/19,LA Galaxy,Vancouver,3Ð4,3,4,west,west,7,regular,,,,,,a
+2019,391,9/29/19,San Jose,Seattle,0Ð1,0,1,west,west,1,regular,,,,,,a
+2019,392,9/29/19,Real Salt Lake,Houston,2Ð1,2,1,west,west,3,regular,,,,,,h
+2019,393,9/29/19,Colorado,FC Dallas,3Ð0,3,0,west,west,3,regular,,,,,,h
+2019,394,9/29/19,Sporting KC,Portland,2Ð2,2,2,west,west,4,regular,,,,,,t
+2019,395,9/29/19,Minnesota,Los Angeles FC,1Ð1,1,1,west,west,2,regular,,,,,,t
+2019,396,10/6/19,Los Angeles FC,Colorado,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,397,10/6/19,Seattle,Minnesota,1Ð0,1,0,west,west,1,regular,,,,,,h
+2019,398,10/6/19,Portland,San Jose,3Ð1,3,1,west,west,4,regular,,,,,,h
+2019,399,10/6/19,Vancouver,Real Salt Lake,0Ð1,0,1,west,west,1,regular,,,,,,a
+2019,400,10/6/19,FC Dallas,Sporting KC,6Ð0,6,0,west,west,6,regular,,,,,,h
+2019,401,10/6/19,Houston,LA Galaxy,4Ð2,4,2,west,west,6,regular,,,,,,h
+2019,402,10/6/19,Atlanta,New England,3Ð1,3,1,east,east,4,regular,,,,,,h
+2019,403,10/6/19,Toronto FC,Columbus,1Ð0,1,0,east,east,1,regular,,,,,,h
+2019,404,10/6/19,Philadelphia,NYCFC,1Ð2,1,2,east,east,3,regular,,,,,,a
+2019,405,10/6/19,Orlando City,Chicago,2Ð5,2,5,east,east,8,regular,,,,,,a
+2019,406,10/6/19,D.C. United,FC Cincinnati,0Ð0,0,0,east,east,0,regular,,,,,,t
+2019,407,10/6/19,Montreal,NY Red Bulls,3Ð0,3,0,east,east,3,regular,,,,,,h
