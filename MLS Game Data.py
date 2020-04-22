@@ -7,7 +7,7 @@ import statsmodels.api as sm
 ##c = pd.read_csv(url)
 ##c.to_csv('mls_goals_data.csv')
 
-df = pd.read_csv('mls_goals_data_revised.csv', index_col='Season')
+df = pd.read_excel('mls_goals_data_revised1.xlsx', index_col='Season')
 print(df.columns)
 hGoals = []
 vGoals = []
@@ -26,7 +26,7 @@ numTeamsByYear =[]
 # df['hwins'] = np.select(conditions, choices, default=pd.np.NaN)
 
 #count up total goals and wins (home and away) scored each year
-for year in range(1996, 2017):
+for year in range(2019):
     hGoals.append(df.loc[year, 'hgoal'].sum())
     vGoals.append(df.loc[year, 'vgoal'].sum())
     years.append(year)
