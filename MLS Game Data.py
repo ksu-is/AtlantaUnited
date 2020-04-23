@@ -7,7 +7,7 @@ import statsmodels.api as sm
 ##c = pd.read_csv(url)
 ##c.to_csv('mls_goals_data.csv')
 
-df = pd.read_csv('mls_goals_data_copy.csv', index_col='Season')
+df = pd.read_csv('mls_goals_data_revised1.csv', index_col='Season')
 print(df.columns)
 hGoals = []
 vGoals = []
